@@ -35,9 +35,9 @@ export default Section
 
 const Wrap = styled.div`
     width: 100vw;
-    height: 150vh;
+    height: 100vh;
     background-size: cover;
-    background-positin: center;
+    background-position: center;
     background-repeat: no-repeat;
     background-image: url('/images/model-s.jpg');
     display: flex;
@@ -62,7 +62,7 @@ const LeftButton = styled.div`
     height: 40px;
     width: 256px;
     color: white;
-    desplay: flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 100px;
